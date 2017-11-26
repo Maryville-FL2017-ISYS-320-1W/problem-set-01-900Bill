@@ -8,8 +8,8 @@
 
 1. Fill out the table for the loop below
 
-| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
-| initialization	 |				 |				 |				 | 
+| ITERATION 		 | MAX	 | Number	 | Count	 | Product
+| initialization	 |		4	 |				 4|		16	 | 
 | 1				 |				 |				 |				 |
 
 
